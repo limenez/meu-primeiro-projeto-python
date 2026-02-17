@@ -1,1 +1,2 @@
-print("Olá, mundo! Meu projeto está funcionando 😄")
+
+print("Olá, mundo! Meu projeto está funcionando!")
